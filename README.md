@@ -9,7 +9,7 @@ Crear un álbum en tu app Fotos de iOS que se llame exactamente **Este día** / 
 Excluir todos los álbumes compartidos para que no den error. 
 
 # Instalación
-* **Rápida:** Descargarlo desde iCloud 👉 **[Instalar desde iCloud]([https://www.icloud.com/shortcuts/0dcc5ef7b2174011b2abad4c1f4e3ce5])**
+* **Rápida:** Descargarlo desde iCloud 👉 **[Instalar desde iCloud](https://www.icloud.com/shortcuts/0dcc5ef7b2174011b2abad4c1f4e3ce5)**
 * **Manual:** Descarga el archivo `.shortcut` de este repositorio y ábrelo en tu dispositivo.
 
 # Permisos
